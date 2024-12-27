@@ -20,7 +20,7 @@
 
 ## Math Foundations
 
-1. Optimal Transfer
+1. Optimal Transport
 2. measurement of difference between distributions
 
 
