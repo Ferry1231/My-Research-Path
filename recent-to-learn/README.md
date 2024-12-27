@@ -25,6 +25,7 @@
 
 1. Optimal Transport
 2. measurement of difference between distributions
+3. Advanced Probalistics Theory
 
 
 ## Coding
