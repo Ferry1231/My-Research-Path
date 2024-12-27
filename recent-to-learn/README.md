@@ -7,6 +7,9 @@
 1. Transformer
     - attention
     - basic arch
+2. VQ relevance
+    - VQVAE, VQGAN
+    - codebook
 2. AR models
     - basic of AR models
     - RAR, VAR, MAR
