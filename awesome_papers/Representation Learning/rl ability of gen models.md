@@ -1,4 +1,4 @@
-# Representation Learning of Generative Modeling
+# Representation Learning Ability of Generative Modeling
 
 #### Diffusion Modeling
 
