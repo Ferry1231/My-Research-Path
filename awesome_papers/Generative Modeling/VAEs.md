@@ -9,6 +9,8 @@
 
 - [Vector Quantized Wasserstein Auto-Encoder](https://arxiv.org/abs/2302.05917)
 
+- [Deep Compression Autoencoder for Efficient High-Resolution Diffusion Models](https://arxiv.org/abs/2410.10733) (DC-AE)
+
 #### Efficient Sampling
 
 - [Deep Compression Autoencoder for Efficient High-Resolution Diffusion Models](https://arxiv.org/abs/2410.10733)
