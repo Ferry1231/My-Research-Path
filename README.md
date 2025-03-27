@@ -2,7 +2,7 @@
 
 **Fengyuan Liu** </br>
 
-**the hub is used to:**
+**the repo is used to:**
 - improve my research ability;
 - follow (new) technologies;
 - learn foundation knowledge;
